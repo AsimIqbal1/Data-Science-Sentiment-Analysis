@@ -1,4 +1,4 @@
-# SentimentAnalysisOfMovieReviews
+# Sentiment Analysis Of Movie Reviews
 Sentiment analysis is a common natural language processing (NLP) task in the field of Data Science. It is the process of determining a context of a piece of writing whether it is positive, negative or neutral. In this project, I will train the model with such data and algorithm to make it able to predict the sentiment of a customer review on movies with good accuracy.
 
 SENTIMENT ANALYZER
